@@ -27,20 +27,20 @@
 
 ## Training
 
-![image](https://user-images.githubusercontent.com/32212074/121040731-19441180-c7ed-11eb-8d28-8fbd8a399b1c.png)
+![image](https://user-images.githubusercontent.com/32212074/121041966-30cfca00-c7ee-11eb-8399-cf094c94d255.png)
 
 
 ## Acc
 
-![image](https://user-images.githubusercontent.com/32212074/121040777-23fea680-c7ed-11eb-8142-55c0494b0bbb.png)
+![image](https://user-images.githubusercontent.com/32212074/121041931-2a415280-c7ee-11eb-9ed3-34e37172290a.png)
 
 ## Predicted Right
 
-![image](https://user-images.githubusercontent.com/32212074/121040801-29f48780-c7ed-11eb-8a80-564276bf5b7e.png)
+![image](https://user-images.githubusercontent.com/32212074/121041899-23b2db00-c7ee-11eb-9c72-ca29587d75a4.png)
 
 ## Wrong
 
-![image](https://user-images.githubusercontent.com/32212074/121040835-311b9580-c7ed-11eb-9990-fa44bcc1b70b.png)
+![image](https://user-images.githubusercontent.com/32212074/121041879-1dbcfa00-c7ee-11eb-87fc-158e1fcbca16.png)
 
 ****
 
